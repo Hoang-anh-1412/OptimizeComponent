@@ -1,0 +1,7 @@
+{"location":"app/page.tsx:27","message":"Page component rendered","data":{"tableDataLength":8},"timestamp":1765618572937,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"components/ui/EditableTable.tsx:158","message":"onDataChange prop changed","data":{"hasOnDataChange":true,"prevHasOnDataChange":true},"timestamp":1765618578613,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"components/ui/EditableTable.tsx:161","message":"initialData prop changed","data":{"initialDataLength":8},"timestamp":1765618578615,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/ui/EditableTable.tsx:169","message":"First render skipped","data":{},"timestamp":1765618578620,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/ui/EditableTable.tsx:158","message":"onDataChange prop changed","data":{"hasOnDataChange":true,"prevHasOnDataChange":true},"timestamp":1765618578632,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"components/ui/EditableTable.tsx:161","message":"initialData prop changed","data":{"initialDataLength":8},"timestamp":1765618578633,"sessionId":"debug-session","runId":"run1","hypothesisId":"E"}
+{"location":"components/ui/EditableTable.tsx:172","message":"onDataChange called from useEffect","data":{"dataLength":8,"hasOnDataChange":true},"timestamp":1765618578635,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
