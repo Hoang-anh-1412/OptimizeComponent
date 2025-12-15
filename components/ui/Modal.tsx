@@ -47,7 +47,7 @@ export const Modal: React.FC<ModalProps> = ({
         className={`bg-white rounded-lg shadow-xl ${sizes[size]} w-full max-h-[90vh] overflow-y-auto`}
         onClick={(e) => e.stopPropagation()}
       >
-        {(title || onClose) && (
+        {(title) && (
           <div className="flex items-center justify-between p-6 border-b">
             {title && (
               <h2 className="text-xl font-semibold text-gray-900">{title}</h2>
